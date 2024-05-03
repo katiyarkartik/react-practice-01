@@ -1,0 +1,9 @@
+.emp-list{
+    display: flex;
+  
+}
+.emp-list p{
+    width: 16.66%;
+    border: 1px solid black;
+    padding: 5px;
+}
